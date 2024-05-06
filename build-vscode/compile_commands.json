@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Projects/Demo3/App/build-vscode",
+  "command": "C:\\Applications\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/App.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\App.dir\\App_autogen\\mocs_compilation.cpp.obj -c D:\\Projects\\Demo3\\App\\build-vscode\\App_autogen\\mocs_compilation.cpp",
+  "file": "D:/Projects/Demo3/App/build-vscode/App_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/App.dir/App_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Demo3/App/build-vscode",
+  "command": "C:\\Applications\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/App.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\App.dir\\main.cpp.obj -c D:\\Projects\\Demo3\\App\\main.cpp",
+  "file": "D:/Projects/Demo3/App/main.cpp",
+  "output": "CMakeFiles/App.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Demo3/App/build-vscode",
+  "command": "C:\\Applications\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/App.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\App.dir\\widget.cpp.obj -c D:\\Projects\\Demo3\\App\\widget.cpp",
+  "file": "D:/Projects/Demo3/App/widget.cpp",
+  "output": "CMakeFiles/App.dir/widget.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Demo3/App/build-vscode",
+  "command": "C:\\Applications\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SERIALPORT_LIB -DQT_WIDGETS_LIB @CMakeFiles/App.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\App.dir\\Device\\serialport.cpp.obj -c D:\\Projects\\Demo3\\App\\Device\\serialport.cpp",
+  "file": "D:/Projects/Demo3/App/Device/serialport.cpp",
+  "output": "CMakeFiles/App.dir/Device/serialport.cpp.obj"
+}
+]

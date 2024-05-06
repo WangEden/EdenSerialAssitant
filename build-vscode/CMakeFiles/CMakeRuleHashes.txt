@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+bce8c1b06e368f3bee3344324cd54cc1 CMakeFiles/App_autogen
+dda12070adfa581119eb0cd9df9e7283 D:/Projects/Demo3/App/App_zh_CN.ts
