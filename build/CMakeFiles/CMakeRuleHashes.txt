@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-a3d3c464a68cdebc05b9a6f216743c8a ../App_zh_CN.ts
