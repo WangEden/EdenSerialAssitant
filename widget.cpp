@@ -9,7 +9,7 @@ Widget::Widget(QWidget *parent)
 {
     // 设置窗口属性
     resize(this->WIDTH, this->HEIGHT);
-    this->setWindowTitle("甸哥串口调试助手");
+    this->setWindowTitle("串口调试助手");
     // 创建控件
     this->btnPortSwitch = new QPushButton ("打开串口", this);
     this->btnClearMessage = new QPushButton ("清除消息", this);
